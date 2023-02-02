@@ -1,0 +1,11 @@
+## VSCode
+/.vscode
+
+## Paper PDFs
+bibliography/*.pdf
+
+## Latex build dir
+build/
+
+## Jabref backup files
+bibliography/*.bak
